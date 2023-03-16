@@ -13,7 +13,7 @@ main_slider:
         We ONLY provide Email Marketing services for businesses. Because mastery required focus. And our soul purpose is to produce Sky-high ROI via email marketing.
       "
       #link: "/portfolio/melanin-goddess/"
-      image: "images/started-n26-1920x1080.jpg"
+      image: "images/bg1.jpg"     #started-n26-1920x1080.jpg"
 
     - title: "Email Marketing"
       subtitle: "Why"
@@ -21,7 +21,7 @@ main_slider:
         Did you know that every email you sent, between 0.19% and 0.52% of your email subscribers would unsubscribe per email you send.
       "
       link: "/portfolio/blue-denim/"
-      image: "images/started-n15-1920x1080.jpg"
+      image: "images/bg3.jpg"
 
     - title: "In Return ?"
       subtitle: "What Do you Get	"
@@ -29,7 +29,7 @@ main_slider:
         Our goal is to produce the maximum ROI possible for your business via Email Marketing. As Email marketing it the most cheapest and the one that has the highest leverage.
       "
       link: "/portfolio/the-dance/"
-      image: "images/started-n15-1920x1080.jpg"
+      image: "images/bg4.jpg"
 
 ### Grid Slider [ gridSlider ]
 grid_slider:
