@@ -7,24 +7,24 @@
 main_slider:
   enable: true
   slides:
-    - title: "Melanin <br>Goddess"
-      subtitle: "branding"
+    - title: "Sky-High<br>ROI"
+      subtitle: ""
       description: "
         Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic question, the answer he gives will necessarily be unique as well.
       "
-      link: "/portfolio/melanin-goddess/"
+      #link: "/portfolio/melanin-goddess/"
       image: "images/started-n26-1920x1080.jpg"
 
-    - title: "Blue denim"
-      subtitle: "ui/ux"
+    - title: "Email Marketing"
+      subtitle: "Why"
       description: "
         Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic question, the answer he gives will necessarily be unique as well.
       "
       link: "/portfolio/blue-denim/"
       image: "images/started-n15-1920x1080.jpg"
 
-    - title: "The Dance"
-      subtitle: "art"
+    - title: "In Return ?"
+      subtitle: "What Do you Get	"
       description: "
         Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic question, the answer he gives will necessarily be unique as well.
       "
