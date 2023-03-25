@@ -9,10 +9,8 @@ main_slider:
   slides:
     - title: "Sky-High<br>ROI"
       subtitle: ""
-      description: "
-        We ONLY provide Email Marketing services for businesses. Because mastery required focus. And our soul purpose is to produce Sky-high ROI via email marketing.
-      "
-      #link: "/portfolio/melanin-goddess/"
+      description: "We ONLY provide Email Marketing services for businesses. Because mastery required focus. And our soul purpose is to produce Sky-high ROI via email marketing."
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856/"
       image: "images/bg1.jpg"     #started-n26-1920x1080.jpg"
 
     - title: "Email Marketing"
@@ -20,7 +18,7 @@ main_slider:
       description: "
         Did you know that every email you sent, between 0.19% and 0.52% of your email subscribers would unsubscribe per email you send.
       "
-      link: "/portfolio/blue-denim/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"
       image: "images/bg3.jpg"
 
     - title: "In Return ?"
@@ -28,7 +26,7 @@ main_slider:
       description: "
         Our goal is to produce the maximum ROI possible for your business via Email Marketing. As Email marketing it the most cheapest and the one that has the highest leverage.
       "
-      link: "/portfolio/the-dance/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/bg4.jpg"
 
 ### Grid Slider [ gridSlider ]
@@ -42,22 +40,22 @@ grid_slider:
 
     - title: "The Dance"
       subtitle: "ui/ux"
-      link: "/portfolio/the-dance/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/started-n2_4-900x600.jpg"
 
     - title: "Blue denim"
       subtitle: "branding"
-      link: "/portfolio/blue-denim/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"
       image: "images/started-n15-900x600.jpg"
 
     - title: "Melanin Goddess"
       subtitle: "photography"
-      link: "/portfolio/melanin-goddess/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856/"
       image: "images/started-n19-900x900.jpg"
 
     - title: "Negative space"
       subtitle: "art"
-      link: "/portfolio/negative-space/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856ce/"
       image: "images/started-n14_1-900x1080.jpg"
 
 ### Half Slider [ halfSlider ]
@@ -69,7 +67,7 @@ half_slider:
       description: "
         It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
       "
-      link: "/portfolio/melanin-goddess/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856/"
       image: "images/started-n19-1080x1080.jpg"
 
     - title: "Astronaut"
@@ -77,7 +75,7 @@ half_slider:
       description: "
         It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
       "
-      link: "/portfolio/astronaut/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/started-n12-1000x1080.jpg"
 
     - title: "The Dance"
@@ -85,7 +83,7 @@ half_slider:
       description: "
         It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
       "
-      link: "/portfolio/the-dance/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/started-n2_4-1080x1080.jpg"
 
     - title: "Blue denim"
@@ -93,7 +91,7 @@ half_slider:
       description: "
         It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
       "
-      link: "/portfolio/blue-denim/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"
       image: "images/started-n15-1080x1080.jpg"
 
 ### Disp Slider [ dispSlider ]
@@ -102,20 +100,20 @@ disp_slider:
   slides:
     - title: "Astronaut"
       subtitle: "photo"
-      link: "/portfolio/astronaut/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/started_new-1920x1080.jpg"
 
     - title: "The Dance"
       subtitle: "art"
-      link: "/portfolio/the-dance/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"      
       image: "images/started-n2_4-1920x1080.jpg"
 
     - title: "Melanin <br>Goddess"
       subtitle: "branding"
-      link: "/portfolio/melanin-goddess/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856/"
       image: "images/started-n26-1920x1080.jpg"
 
     - title: "Blue denim"
       subtitle: "branding"
-      link: "/portfolio/blue-denim/"
+      link: "https://medium.com/@Prinux/advantages-of-email-marketing-c40b60ca4856"
       image: "images/started-n15-1920x1080.jpg"

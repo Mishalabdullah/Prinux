@@ -67,21 +67,21 @@ DefaultContentLanguage = "en"
 #    name = "Gallery"
 #    url = "/gallery/"
 #    weight = 2
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 4
+#[[menu.main]]
+ # identifier = "contact"
+ # name = "Contact"
+ # url = "/contact/"
+ # weight = 4
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog/"
   weight = 5
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 6
+#[[menu.main]]
+#  identifier = "contact"
+#  name = "Contact"
+ # url = "/contact/"
+ # weight = 6
 # Main Settings
 [params]
 dateFormat = "January 2, 2006"
